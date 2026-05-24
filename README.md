@@ -1,0 +1,2 @@
+# Uber-Predict-the-fare-amount-of-future-rides-using-regression-analysi
+This project addresses the challenge of predicting ride fares for Uber, where dynamic factors like trip distance, time, location, and demand make accurate estimation essential. The dataset includes key trip details such as timestamps passenger counts and geographical coordinates forming the foundation for developing and evaluating predictive models
