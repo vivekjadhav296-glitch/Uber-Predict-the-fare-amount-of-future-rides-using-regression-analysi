@@ -30,3 +30,5 @@ Feature Importance
 **Time-Based Features**: Peak hours and weekends impact fare amounts
 
 **Passenger Count**: Affects fare types (e.g., shared rides vs. private rides)
+<img width="770" height="529" alt="uber certificate" src="https://github.com/user-attachments/assets/2097fe57-a806-4617-ac7f-43d8439b242b" />
+
